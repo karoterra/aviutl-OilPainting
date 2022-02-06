@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.obj": "lua",
+        "*.anm": "lua",
+        "*.scn": "lua",
+        "*.cam": "lua",
+        "*.tra": "lua"
+    },
+    "[lua]": {
+        "files.encoding": "shiftjis"
+    },
+    "[c]": {
+        "files.encoding": "shiftjis"
+    },
+    "[cpp]": {
+        "files.encoding": "shiftjis"
+    }
+}

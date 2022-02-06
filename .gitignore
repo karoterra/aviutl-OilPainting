@@ -1,0 +1,14 @@
+[Vv]endor/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+[Pp]ublish/
+[Bb]in/
+
+aviutl/
+
+*.dll
+
+*.VC.DB*
+*.aps
